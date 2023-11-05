@@ -1,4 +1,5 @@
 # Excercise 3.1.10 cisco course
+## Copyright
 plant_name = str(input("Enter the name of the plant:"))
 
 if plant_name == "Spathiphyllum" :
